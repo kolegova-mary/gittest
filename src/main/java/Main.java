@@ -4,6 +4,9 @@ public class Main {
         System.out.println("QWE2");
 
         System.out.println(getSquare(5));
+
+        int i = 5;
+        System.out.println(i * i);
     }
 
     static int getSquare(int x){
