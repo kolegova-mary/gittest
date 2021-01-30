@@ -7,6 +7,8 @@ public class Main {
 
         int i = 5;
         System.out.println(i * i);
+
+        System.out.println("QWE3");
     }
 
     static int getSquare(int x){
